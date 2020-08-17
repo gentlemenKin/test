@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # first commit
 
 #  王金测试版本回退
+#测试分支合并的问题。
