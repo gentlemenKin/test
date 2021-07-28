@@ -16,7 +16,7 @@ class WebViewPage extends StatefulWidget {
 class _WebViewPageState extends State<WebViewPage> {
 
   WebViewController _controller;
-  String _title = "测试webview";
+  String _title = "webview";
 
   @override
   Widget build(BuildContext context) {
