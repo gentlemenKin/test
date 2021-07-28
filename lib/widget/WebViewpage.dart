@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 void main()=>runApp(new MaterialApp(
-  title: 'webview',
+  title: '测试 webview',
   home: WebViewPage(),
 ));
 
@@ -16,7 +16,7 @@ class WebViewPage extends StatefulWidget {
 class _WebViewPageState extends State<WebViewPage> {
 
   WebViewController _controller;
-  String _title = "webview";
+  String _title = "测试webview";
 
   @override
   Widget build(BuildContext context) {
