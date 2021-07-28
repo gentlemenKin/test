@@ -26,7 +26,7 @@ class _WebViewPageState extends State<WebViewPage> {
       ),
       child: SafeArea(
         child: WebView(
-          initialUrl: "https://flutterchina.club/",
+          initialUrl: "https://33333club/",
           javascriptMode: JavascriptMode.unrestricted,
           onWebViewCreated: (controller){
             _controller = controller;
