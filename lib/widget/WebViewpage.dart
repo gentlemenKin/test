@@ -32,7 +32,7 @@ class _WebViewPageState extends State<WebViewPage> {
             _controller = controller;
           },
           onPageFinished: (url){
-            _controller.evaluateJavascript("decument.title").then((value) => _title = value);
+            _controller.evaluateJavascript("4444.title").then((value) => _title = value);
           },
 //          navigationDelegate: (NavigationRequest request){
 //            if(request.url.startsWith(""))
